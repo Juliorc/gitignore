@@ -1,0 +1,8 @@
+*.json
+!package.json
+
+bin/*
+
+libs/**/node_modules
+
+*.class
